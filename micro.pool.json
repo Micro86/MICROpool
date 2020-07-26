@@ -20,11 +20,7 @@
   "poolMetaDescription": "ADA staking pool",
   "poolMetaTicker": "MICRO",
   "poolMetaHomepage": "https://www.microstakepool.com",
-  "poolMetaUrl": "https://git.io/JJRDb",
+  "poolMetaUrl": "https://micro86.github.io/MICROpool/micro.pool.json",
   "poolExtendedMetaUrl": "",
   "---": "--- DO NOT EDIT BELOW THIS LINE ---",
-  "poolID": "33418d6ac0e9aafca6140b716ed9d8975bea349b6a18c1ec22b57091",
-  "poolMetaHash": "b9faa28438c819cb5a7a28b948c6eb78f2e28c3b5f2daba23db6c9c7bee980bc",
-  "regCertCreated": "Sun, 26 Jul 2020 14:26:18 +0200",
-  "regCertFile": "micro.pool.cert"
 }
